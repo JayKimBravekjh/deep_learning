@@ -313,3 +313,4 @@ class LeNetConvPoolLayer(object):
         	datasets=load_data_simple()
         	conv_simple(reg_par=.001)
   
+  ##
